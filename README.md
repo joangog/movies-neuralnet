@@ -1,5 +1,5 @@
 # neuralnetproj
-Parameter tweaking practice in neural network
+Parameter tweaking practice in neural network\
 Dataset used: MovieLens 100K
 
 * create_dataset.py : creates dataset used by neural network (dataset.data)
