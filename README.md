@@ -1,4 +1,4 @@
-# neuralnetproj
+# movies-neuralnet
 Parameter tweaking practice in neural network\
 Dataset used: MovieLens 100K
 
